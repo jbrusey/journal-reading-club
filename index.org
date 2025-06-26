@@ -1,0 +1,11 @@
+#+title: Coventry University CSM Journal Reading Club
+#+options: toc:nil num:nil
+* Preamble :noexport:
+Remember to export this prior to committing a new version
+[[elisp:(org-twbs-export-to-html)]]
+
+* 2025
+** June
+[[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
+
+
