@@ -4,6 +4,28 @@
 Remember to export this prior to committing a new version
 [[elisp:(org-twbs-export-to-html)]]
 
+* Introduction
+** When
+Wednesday mornings 10am - 11am starting from 7th September 2023.
+
+** What club members will need to do beforehand
+Read the paper (even if only a skim read) and come ready to discuss, explain, and tell us what you found difficult to understand.
+
+** How we will choose papers
+We'll start with some classic papers in the domain of Reinforcement Learning but we can branch out any time and club members will get to propose and vote on their preferred papers (perhaps using Padlet).
+
+** Rough agenda
+- Challenge to each attendee - prove you read something of the paper (e.g., by telling us about one aspect of the work).
+- Ask for help - what was hard to understand?
+- Suggestions and votes for the next paper to review.
+** Who can join?
+All PGRs are invited but staff are welcome too.
+We also invite members of NUST from our joint lab on Human Robotics Interaction (NC-HRI).
+James will initially lead the sessions but that can change as we go forward.
+
+ 
+
+ 
 * 2025
 ** June
 [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
