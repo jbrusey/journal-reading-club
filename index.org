@@ -39,7 +39,6 @@ James will initially lead the sessions but that can change as we go forward.
 ** April
 - [[https://www.anthropic.com/research/tracing-thoughts-language-model][Tracing the thoughts of a large language model]]
 - [[https://arxiv.org/abs/2006.11239][Denoising Diffusion Probabilistic Models]]
--
   
 ** February
 - [[https://www.nature.com/articles/nature16961][Mastering the game of Go with deep neural networks and tree search]]

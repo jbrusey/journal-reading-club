@@ -1,0 +1,22 @@
+name: Check index.html freshness
+
+on: [push, pull_request]
+
+jobs:
+  check-html-newer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check timestamps
+        run: |
+          html_date=$(git log -1 --format="%ct" -- index.html || echo 0)
+          org_date=$(git log -1 --format="%ct" -- index.org || echo 0)
+
+          echo "index.html commit date: $html_date"
+          echo "index.org commit date: $org_date"
+
+          if [ "$html_date" -lt "$org_date" ]; then
+            echo "index.html is older than index.org — please regenerate."
+            exit 1
+          fi
