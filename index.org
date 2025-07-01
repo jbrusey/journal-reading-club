@@ -28,21 +28,40 @@ James will initially lead the sessions but that can change as we go forward.
  
 * 2025
 ** June
-[[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
+[[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][- Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
 
+- [[https://www.inference.org.uk/itprnn/book.pdf][David Mackay's book]]
+
+- [[http://GitHub.coventry.ac.uk/pages/aa3172/presentations/2025-06-mackay/ch2.html][Slides on Mackay chapter 2]]
+
+- [[https://www.youtube.com/watch?v=GDJFLfmyb20][Explanation of Jensen's Inequality]]
+
+** April
+- [[https://www.anthropic.com/research/tracing-thoughts-language-model][Tracing the thoughts of a large language model]]
+- [[https://arxiv.org/abs/2006.11239][Denoising Diffusion Probabilistic Models]]
+-
+  
+** February
+- [[https://www.nature.com/articles/nature16961][Mastering the game of Go with deep neural networks and tree search]]
+
+- [[https://arxiv.org/abs/2411.04872][FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI]]
+
+** January
+
+- [[https://arxiv.org/abs/2501.12948][DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning]]
 
 * 2024
 
-** January
-- [[https://arxiv.org/pdf/2005.05719.pdf][Smooth Exploration for Robotic Reinforcement Learning]] — Raffin, Kober & Stulp; *CoRL* 2022 (PMLR) 
-- [[https://arxiv.org/pdf/2305.18290.pdf][Direct Preference Optimization: Your Language Model is Secretly a Reward Model]] — Rafailov et al.; *arXiv* May 2023; NeurIPS 2023 poster 
-- [[https://www.nature.com/articles/s41586-023-06924-6][Mathematical discoveries from program search with large language models]] — Romera‑Paredes et al.; *Nature* Jan 2024 
+** June
+- [[https://arxiv.org/pdf/2406.02528][Scalable MatMul‑free Language Modeling]] — Zhou et al.; *arXiv* v5 18 Jun 2024 
+
 
 ** February
 - [[https://arxiv.org/pdf/2202.05607.pdf][Online Decision Transformer]] — Zheng, Zhang & Grover; *CoRR* Feb 2022 
 - [[https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf][Neural Architecture Search with Reinforcement Learning]] — Zoph & Le; *ICLR/NeurIPS* 2017 
 
-** June
-- [[https://arxiv.org/pdf/2406.02528][Scalable MatMul‑free Language Modeling]] — Zhou et al.; *arXiv* v5 18 Jun 2024 
-
+** January
+- [[https://arxiv.org/pdf/2005.05719.pdf][Smooth Exploration for Robotic Reinforcement Learning]] — Raffin, Kober & Stulp; *CoRL* 2022 (PMLR) 
+- [[https://arxiv.org/pdf/2305.18290.pdf][Direct Preference Optimization: Your Language Model is Secretly a Reward Model]] — Rafailov et al.; *arXiv* May 2023; NeurIPS 2023 poster 
+- [[https://www.nature.com/articles/s41586-023-06924-6][Mathematical discoveries from program search with large language models]] — Romera‑Paredes et al.; *Nature* Jan 2024 
 
