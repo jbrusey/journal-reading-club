@@ -13,7 +13,7 @@ Wednesday mornings 10am - 11am starting from 7th September 2023.
 Read the paper (even if only a skim read) and come ready to discuss, explain, and tell us what you found difficult to understand.
 
 ** How we will choose papers
-We'll start with some classic papers in the domain of Reinforcement Learning but we can branch out any time and club members will get to propose and vote on their preferred papers (perhaps using Padlet).
+We'll start with some classic papers in the domain of Reinforcement Learning but we can branch out any time and club members will get to propose and vote on their preferred papers (propose them on the meeting chat, vote with thumbs up).
 
 ** Rough agenda
 - Challenge to each attendee - prove you read something of the paper (e.g., by telling us about one aspect of the work).
@@ -24,10 +24,119 @@ All PGRs are invited but staff are welcome too.
 We also invite members of NUST from our joint lab on Human Robotics Interaction (NC-HRI).
 James will initially lead the sessions but that can change as we go forward.
 
- 
+* 2024
+** January
+- [[https://arxiv.org/pdf/2005.05719.pdf][Smooth Exploration for Robotic Reinforcement Learning]] — Raffin, Kober & Stulp; *CoRL* 2022 (PMLR) 
+- [[https://arxiv.org/pdf/2305.18290.pdf][Direct Preference Optimization: Your Language Model is Secretly a Reward Model]] — Rafailov et al.; *arXiv* May 2023; NeurIPS 2023 poster 
+- [[https://www.nature.com/articles/s41586-023-06924-6][Mathematical discoveries from program search with large language models]] — Romera‑Paredes et al.; *Nature* Jan 2024 
 
- 
-* 2025
+
+
+** February
+- [[https://arxiv.org/pdf/2202.05607.pdf][Online Decision Transformer]] — Zheng, Zhang & Grover; *CoRR* Feb 2022 
+- [[https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf][Neural Architecture Search with Reinforcement Learning]] — Zoph & Le; *ICLR/NeurIPS* 2017 
+
+** June
+- [[https://arxiv.org/pdf/2406.02528][Scalable MatMul‑free Language Modeling]] — Zhou et al.; *arXiv* v5 18 Jun 2024 
+
+
+** September
+- 25/09/24 - Led by Sokipriala Jonah
+	- Title - Optimistic Whittle Index Policy: Online Learning for Restless Bandits
+	- Link to paper - http://arxiv.org/abs/2205.15372
+	- Reference Video - https://www.youtube.com/watch?v=yBO_2-KyKz0
+
+** October	  
+- 9/10/24 - Led by Dr. Asif Farooq
+	- Title - Spatially embedded recurrent neural networks reveal widespread links between structural and functional neuroscience findings
+	- Link to Paper - https://www.nature.com/articles/s42256-023-00748-9.pdf
+    
+- 16/10/24 
+    - Title - Mastering Diverse Domains through World Models (Dreamer v3)
+    - Link to Paper - http://arxiv.org/abs/2301.04104
+
+- 23/10/24
+    - Title - Diffusion Models Are Real-Time Game Engines
+    - Link to Paper - http://arxiv.org/abs/2408.14837
+    - GitHub Repo with Demo - https://gamengen.github.io
+
+- 30/10/24 - Led by Bivin Pradeeb and Muhammad Ibrahim Khan
+    - Title - A reinforcement learning approach to diary farm battery management using q learning.
+    - Link to Paper - https://www.sciencedirect.com/science/article/pii/S2352152X24016177
+
+** November      
+- 06/11/24 - Led by Dr. Abdorasoul Ghasemi
+	- Title - Generative Design for Resilience of Interdependent Network Systems
+	- Link to Paper - https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/3/031705/1148484/Generative-Design-for-Resilience-of-Interdependent  
+    
+- 06/11/24 - Led by Dr. Abdorasoul Ghasemi
+	- Title - Generative Design for Resilience of Interdependent Network Systems
+	- Link to Paper - https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/3/031705/1148484/Generative-Design-for-Resilience-of-Interdependent  
+    
+- 20/11/24 - Led by Levi Zhao and Supriya Khadka
+	- Title - Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+	- Link to Paper - http://arxiv.org/abs/2201.11903
+    
+- 27/11/24 - Led by Supriya Khadka
+	- Title - Thinking LLMs: General Instruction Following with Thought Generation
+	- Link to Paper - https://arxiv.org/abs/2410.10630
+	- Reference Blog - [DPO and PPO in LLM finetuning](https://magazine.sebastianraschka.com/p/how-good-are-the-latest-open-llms)
+
+** December	  
+- 4/12/24 - Led by Levi Zhao
+	- Title - Language Models can Self-Lengthen to Generate Long Texts
+	- Link to Paper - http://arxiv.org/abs/2410.23933
+
+- 11/12/24 - Led by Dr. Abdorasoul Ghasemi
+	- Title - Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead
+	- Link to Paper - https://www.nature.com/articles/s42256-019-0048-x
+
+* 2025	  
+** January	  
+- 22/01/25 - Led by Kartik Kartik
+	- Title - Fast Fourier Convolution
+	- Link to Paper - https://papers.nips.cc/paper_files/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html
+	- References - https://plus.maths.org/content/fourier-transforms-images, https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html
+
+- 29/01/25 - Led by Levi Zhao
+	- Title - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (1)
+	- Link to Paper - http://arxiv.org/abs/2501.12948
+	- My favourite explanation video - https://www.youtube.com/watch?v=kv8frWeKoeo
+
+** February
+
+- 05/02/25 - Led by Levi Zhao
+	- Title - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2)
+	- Link to Paper - http://arxiv.org/abs/2501.12948
+
+- 12/02/25 - Led by Muhammad Ibrahim Khan
+	- Title - Mastering the game of Go with deep neural networks and tree search
+	- Link to Paper - https://www.nature.com/articles/nature16961
+	- Reference to visualise the game - https://www.youtube.com/watch?v=4PyWLgrt7YY
+
+- 26/02/25 
+	- Title - Deep Learning in Spiking Neural Networks
+	- Link to Paper - http://arxiv.org/abs/1804.08150
+	- Reference video - https://www.youtube.com/watch?v=9dYZXQl4ozk
+
+** March	  
+- 05/03/25 - Led by Kinza Arshad
+	- Title - Motion2VecSets: 4D Latent Vector Set Diffusion for Non-Rigid Shape Reconstruction and Tracking
+	- Link to Paper - https://ieeexplore.ieee.org/document/10655593/
+	- Reference Video - https://www.youtube.com/watch?v=VXI3y2o0SqY
+
+** April	  
+- 02/04/25 - Led by Prof. James Brusey
+	- Title - Tracing the thoughts of a large language model
+	- Link to Blog/Paper - https://www.anthropic.com/research/tracing-thoughts-language-model
+
+- [[https://arxiv.org/abs/2006.11239][Denoising Diffusion Probabilistic Models]]
+
+** May	  
+- 21/05/25 - Led by Prof. James Brusey
+	- Title - Bigger, Better, Faster: Human-level Atari with human-level efficiency
+	- Link to Paper - http://arxiv.org/abs/2305.19452
+
 ** June
 - [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
 
@@ -36,32 +145,4 @@ James will initially lead the sessions but that can change as we go forward.
 - [[http://GitHub.coventry.ac.uk/pages/aa3172/presentations/2025-06-mackay/ch2.html][Slides on Mackay chapter 2]]
 
 - [[https://www.youtube.com/watch?v=GDJFLfmyb20][Explanation of Jensen's Inequality]]
-
-** April
-- [[https://www.anthropic.com/research/tracing-thoughts-language-model][Tracing the thoughts of a large language model]]
-- [[https://arxiv.org/abs/2006.11239][Denoising Diffusion Probabilistic Models]]
-  
-** February
-- [[https://www.nature.com/articles/nature16961][Mastering the game of Go with deep neural networks and tree search]]
-
-- [[https://arxiv.org/abs/2411.04872][FrontierMath: A Benchmark for Evaluating Advanced Mathematical Reasoning in AI]]
-
-** January
-
-- [[https://arxiv.org/abs/2501.12948][DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning]]
-
-* 2024
-
-** June
-- [[https://arxiv.org/pdf/2406.02528][Scalable MatMul‑free Language Modeling]] — Zhou et al.; *arXiv* v5 18 Jun 2024 
-
-
-** February
-- [[https://arxiv.org/pdf/2202.05607.pdf][Online Decision Transformer]] — Zheng, Zhang & Grover; *CoRR* Feb 2022 
-- [[https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf][Neural Architecture Search with Reinforcement Learning]] — Zoph & Le; *ICLR/NeurIPS* 2017 
-
-** January
-- [[https://arxiv.org/pdf/2005.05719.pdf][Smooth Exploration for Robotic Reinforcement Learning]] — Raffin, Kober & Stulp; *CoRL* 2022 (PMLR) 
-- [[https://arxiv.org/pdf/2305.18290.pdf][Direct Preference Optimization: Your Language Model is Secretly a Reward Model]] — Rafailov et al.; *arXiv* May 2023; NeurIPS 2023 poster 
-- [[https://www.nature.com/articles/s41586-023-06924-6][Mathematical discoveries from program search with large language models]] — Romera‑Paredes et al.; *Nature* Jan 2024 
 
