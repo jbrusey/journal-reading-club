@@ -10,8 +10,8 @@ jobs:
 
       - name: Check timestamps
         run: |
-          html_date=$(stat -c %Y index.html || echo 0)
-          org_date=$(stat -c %Y index.org || echo 0)
+          html_date=$(git log -1 --pretty=format:"%ct" -- index.html || echo 0)
+          org_date=$(git log -1 --pretty=format:"%ct" -- index.org || echo 0)
 
           echo "index.html mtime: $html_date"
           echo "index.org mtime: $org_date"
