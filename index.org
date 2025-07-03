@@ -24,6 +24,11 @@ All PGRs are invited but staff are welcome too.
 We also invite members of NUST from our joint lab on Human Robotics Interaction (NC-HRI).
 James will initially lead the sessions but that can change as we go forward.
 
+* Next meeting
+The next meeting will be on Wednesday 8th July 2025
+
+Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBkOGFlMDAtNTZjNS00YzUzLTg2MzctYTFkYmUwMDI0YTQ4%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22046854ee-75f8-4209-85a1-7d86d9e7071c%22%7d][here]]
+
 * 2024
 ** January
 - [[https://arxiv.org/pdf/2005.05719.pdf][Smooth Exploration for Robotic Reinforcement Learning]] — Raffin, Kober & Stulp; *CoRL* 2022 (PMLR) 
