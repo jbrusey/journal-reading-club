@@ -29,6 +29,9 @@ The next meeting will be on Wednesday 8th July 2025
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBkOGFlMDAtNTZjNS00YzUzLTg2MzctYTFkYmUwMDI0YTQ4%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22046854ee-75f8-4209-85a1-7d86d9e7071c%22%7d][here]]
 
+* 2023
+** November
+- 29/11/2023 - Led by Abhishek Kallarappayi [[https://ieeexplore.ieee.org/document/9468660][A Multilevel Convolutional Recurrent Neural Network for Blade Icing Detection of Wind Turbine]]
 * 2024
 ** January
 - [[https://arxiv.org/pdf/2005.05719.pdf][Smooth Exploration for Robotic Reinforcement Learning]] — Raffin, Kober & Stulp; *CoRL* 2022 (PMLR) 
@@ -70,10 +73,6 @@ Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBk
     - Link to Paper - https://www.sciencedirect.com/science/article/pii/S2352152X24016177
 
 ** November      
-- 06/11/24 - Led by Dr. Abdorasoul Ghasemi
-	- Title - Generative Design for Resilience of Interdependent Network Systems
-	- Link to Paper - https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/3/031705/1148484/Generative-Design-for-Resilience-of-Interdependent  
-    
 - 06/11/24 - Led by Dr. Abdorasoul Ghasemi
 	- Title - Generative Design for Resilience of Interdependent Network Systems
 	- Link to Paper - https://asmedigitalcollection.asme.org/mechanicaldesign/article/145/3/031705/1148484/Generative-Design-for-Resilience-of-Interdependent  
