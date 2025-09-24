@@ -25,7 +25,7 @@ We also invite members of NUST from our joint lab on Human Robotics Interaction 
 James will initially lead the sessions but that can change as we go forward.
 
 * Next meeting
-The next meeting will be on Wednesday 17th September 2025 and we will be reading David Mackay's book based on Lecture 7 from this series:
+The next meeting will be on Wednesday 1st October 2025 and we will be reading David Mackay's book based on Lecture 8 from this series:
 
 [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
 
