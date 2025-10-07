@@ -1,7 +1,5 @@
 #+title: Coventry University CSM Journal Reading Club
-#+options: num:nil toc:nil
-#+HTML_HEAD: <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
-#+HTML_HEAD_EXTRA: <style>body {margin:2em;font-size:18px}</style>
+#+options: num:nil
 * Preamble :noexport:
 Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
