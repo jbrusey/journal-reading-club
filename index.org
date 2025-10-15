@@ -7,13 +7,13 @@ Remember to export this prior to committing a new version
 
 * Introduction
 ** When
-Wednesday mornings 10am - 11am starting from 7th September 2023.
+Wednesday mornings 11am - 12noon UK time (next meeting 22 October 2025)
 
 ** What club members will need to do beforehand
 Read the paper (even if only a skim read) and come ready to discuss, explain, and tell us what you found difficult to understand.
 
 ** How we will choose papers
-We'll start with some classic papers in the domain of Reinforcement Learning but we can branch out any time and club members will get to propose and vote on their preferred papers (propose them on the meeting chat, vote with thumbs up).
+We'll start with some classic papers in the domain of Reinforcement Learning but we can branch out any time and club members will get to propose and vote on their preferred papers (propose them on the meeting chat, vote with thumbs up). 
 
 ** Rough agenda
 - Challenge to each attendee - prove you read something of the paper (e.g., by telling us about one aspect of the work).
@@ -22,18 +22,72 @@ We'll start with some classic papers in the domain of Reinforcement Learning but
 ** Who can join?
 All PGRs are invited but staff are welcome too.
 We also invite members of NUST from our joint lab on Human Robotics Interaction (NC-HRI).
-James will initially lead the sessions but that can change as we go forward.
+James will lead the sessions.
+** Is there a Microsoft Team?
+Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b5Wy02cFYaRRXbVbgPIRLTEJA1%40thread.tacv2/conversations?groupId=b8cb7489-de49-4fa7-ab9b-626df41b9f98&tenantId=4b18ab9a-3765-4abe-ac7c-0e0d398afd4f][here]]. 
 
 * Next meeting
-The next meeting will be on *Wednesday 15th October 2025* and we will be reading David Mackay's book based on Lecture 8 from this series:
+The next meeting will be on *Wednesday 22nd October 2025* and we will be reading David Mackay's book based on Lecture 8 from this series:
 
 [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
 
-Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBkOGFlMDAtNTZjNS00YzUzLTg2MzctYTFkYmUwMDI0YTQ4%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22046854ee-75f8-4209-85a1-7d86d9e7071c%22%7d][here]]
+Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]]
 
-* 2023
-** November
-- 29/11/2023 - Led by Abhishek Kallarappayi [[https://ieeexplore.ieee.org/document/9468660][A Multilevel Convolutional Recurrent Neural Network for Blade Icing Detection of Wind Turbine]]
+* 2025	  
+** June
+- [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
+
+- [[https://www.inference.org.uk/itprnn/book.pdf][David Mackay's book]]
+
+- [[http://GitHub.coventry.ac.uk/pages/aa3172/presentations/2025-06-mackay/ch2.html][Slides on Mackay chapter 2]]
+
+- [[https://www.youtube.com/watch?v=GDJFLfmyb20][Explanation of Jensen's Inequality]]
+
+** May	  
+- 21/05/25 - Led by Prof. James Brusey
+	- Title - Bigger, Better, Faster: Human-level Atari with human-level efficiency
+	- Link to Paper - http://arxiv.org/abs/2305.19452
+
+** April	  
+- 02/04/25 - Led by Prof. James Brusey
+	- Title - Tracing the thoughts of a large language model
+	- Link to Blog/Paper - https://www.anthropic.com/research/tracing-thoughts-language-model
+
+- [[https://arxiv.org/abs/2006.11239][Denoising Diffusion Probabilistic Models]]
+
+** March	  
+- 05/03/25 - Led by Kinza Arshad
+	- Title - Motion2VecSets: 4D Latent Vector Set Diffusion for Non-Rigid Shape Reconstruction and Tracking
+	- Link to Paper - https://ieeexplore.ieee.org/document/10655593/
+	- Reference Video - https://www.youtube.com/watch?v=VXI3y2o0SqY
+
+** February
+
+- 05/02/25 - Led by Levi Zhao
+	- Title - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2)
+	- Link to Paper - http://arxiv.org/abs/2501.12948
+
+- 12/02/25 - Led by Muhammad Ibrahim Khan
+	- Title - Mastering the game of Go with deep neural networks and tree search
+	- Link to Paper - https://www.nature.com/articles/nature16961
+	- Reference to visualise the game - https://www.youtube.com/watch?v=4PyWLgrt7YY
+
+- 26/02/25 
+	- Title - Deep Learning in Spiking Neural Networks
+	- Link to Paper - http://arxiv.org/abs/1804.08150
+	- Reference video - https://www.youtube.com/watch?v=9dYZXQl4ozk
+
+** January	  
+- 22/01/25 - Led by Kartik Kartik
+	- Title - Fast Fourier Convolution
+	- Link to Paper - https://papers.nips.cc/paper_files/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html
+	- References - https://plus.maths.org/content/fourier-transforms-images, https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html
+
+- 29/01/25 - Led by Levi Zhao
+	- Title - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (1)
+	- Link to Paper - http://arxiv.org/abs/2501.12948
+	- My favourite explanation video - https://www.youtube.com/watch?v=kv8frWeKoeo
+
 * 2024
 ** January
 - [[https://arxiv.org/pdf/2005.05719.pdf][Smooth Exploration for Robotic Reinforcement Learning]] — Raffin, Kober & Stulp; *CoRL* 2022 (PMLR) 
@@ -97,58 +151,6 @@ Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBk
 	- Title - Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead
 	- Link to Paper - https://www.nature.com/articles/s42256-019-0048-x
 
-* 2025	  
-** January	  
-- 22/01/25 - Led by Kartik Kartik
-	- Title - Fast Fourier Convolution
-	- Link to Paper - https://papers.nips.cc/paper_files/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html
-	- References - https://plus.maths.org/content/fourier-transforms-images, https://openaccess.thecvf.com/content_iccv_2017/html/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.html
-
-- 29/01/25 - Led by Levi Zhao
-	- Title - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (1)
-	- Link to Paper - http://arxiv.org/abs/2501.12948
-	- My favourite explanation video - https://www.youtube.com/watch?v=kv8frWeKoeo
-
-** February
-
-- 05/02/25 - Led by Levi Zhao
-	- Title - DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning (2)
-	- Link to Paper - http://arxiv.org/abs/2501.12948
-
-- 12/02/25 - Led by Muhammad Ibrahim Khan
-	- Title - Mastering the game of Go with deep neural networks and tree search
-	- Link to Paper - https://www.nature.com/articles/nature16961
-	- Reference to visualise the game - https://www.youtube.com/watch?v=4PyWLgrt7YY
-
-- 26/02/25 
-	- Title - Deep Learning in Spiking Neural Networks
-	- Link to Paper - http://arxiv.org/abs/1804.08150
-	- Reference video - https://www.youtube.com/watch?v=9dYZXQl4ozk
-
-** March	  
-- 05/03/25 - Led by Kinza Arshad
-	- Title - Motion2VecSets: 4D Latent Vector Set Diffusion for Non-Rigid Shape Reconstruction and Tracking
-	- Link to Paper - https://ieeexplore.ieee.org/document/10655593/
-	- Reference Video - https://www.youtube.com/watch?v=VXI3y2o0SqY
-
-** April	  
-- 02/04/25 - Led by Prof. James Brusey
-	- Title - Tracing the thoughts of a large language model
-	- Link to Blog/Paper - https://www.anthropic.com/research/tracing-thoughts-language-model
-
-- [[https://arxiv.org/abs/2006.11239][Denoising Diffusion Probabilistic Models]]
-
-** May	  
-- 21/05/25 - Led by Prof. James Brusey
-	- Title - Bigger, Better, Faster: Human-level Atari with human-level efficiency
-	- Link to Paper - http://arxiv.org/abs/2305.19452
-
-** June
-- [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
-
-- [[https://www.inference.org.uk/itprnn/book.pdf][David Mackay's book]]
-
-- [[http://GitHub.coventry.ac.uk/pages/aa3172/presentations/2025-06-mackay/ch2.html][Slides on Mackay chapter 2]]
-
-- [[https://www.youtube.com/watch?v=GDJFLfmyb20][Explanation of Jensen's Inequality]]
-
+* 2023
+** November
+- 29/11/2023 - Led by Abhishek Kallarappayi [[https://ieeexplore.ieee.org/document/9468660][A Multilevel Convolutional Recurrent Neural Network for Blade Icing Detection of Wind Turbine]]
