@@ -5,6 +5,13 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 
+* Next meeting
+The next meeting will be on *Wednesday 29th October 2025* and we will be reading David Mackay's book based on Lecture 8 from this series:
+
+[[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
+
+Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]]
+
 * Introduction
 ** When
 Wednesday mornings 11am - 12noon UK time (next meeting 22 October 2025)
@@ -25,13 +32,6 @@ We also invite members of NUST from our joint lab on Human Robotics Interaction 
 James will lead the sessions.
 ** Is there a Microsoft Team?
 Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b5Wy02cFYaRRXbVbgPIRLTEJA1%40thread.tacv2/conversations?groupId=b8cb7489-de49-4fa7-ab9b-626df41b9f98&tenantId=4b18ab9a-3765-4abe-ac7c-0e0d398afd4f][here]]. 
-
-* Next meeting
-The next meeting will be on *Wednesday 22nd October 2025* and we will be reading David Mackay's book based on Lecture 8 from this series:
-
-[[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
-
-Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]]
 
 * 2025	  
 ** June
