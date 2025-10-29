@@ -6,7 +6,7 @@ Remember to export this prior to committing a new version
 
 
 * Next meeting
-The next meeting will be on *Wednesday 29th October 2025* and we will be reading David Mackay's book based on Lecture 8 from this series:
+The next meeting will be on *Wednesday 5th November 2025* and we haven't decided what we will do yet (sorry I was away on the 29th). 
 
 [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
 
