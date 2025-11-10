@@ -6,15 +6,15 @@ Remember to export this prior to committing a new version
 
 
 * Next meeting
-The next meeting will be on *Wednesday 5th November 2025* and we haven't decided what we will do yet (sorry I was away on the 29th). 
+The next meeting will be on *Wednesday 12th November 2025* and we have decided to look at
 
-[[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
+Cuadra, A. et al. (2024) ‘The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction’, in Proceedings of the CHI Conference on Human Factors in Computing Systems. CHI ’24: CHI Conference on Human Factors in Computing Systems, Honolulu HI USA: ACM, pp. 1–18. Available at: https://doi.org/10.1145/3613904.3642336.
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]]
 
 * Introduction
 ** When
-Wednesday mornings 11am - 12noon UK time (next meeting 22 October 2025)
+Wednesday mornings 11am - 12noon UK time 
 
 ** What club members will need to do beforehand
 Read the paper (even if only a skim read) and come ready to discuss, explain, and tell us what you found difficult to understand.
