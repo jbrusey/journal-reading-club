@@ -6,9 +6,10 @@ Remember to export this prior to committing a new version
 
 
 * Next meeting
-The next meeting will be on *Wednesday 12th November 2025* and we have decided to look at
+The next meeting will be on *Wednesday 19th November 2025* and we have decided to look at
 
-Cuadra, A. et al. (2024) ‘The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction’, in Proceedings of the CHI Conference on Human Factors in Computing Systems. CHI ’24: CHI Conference on Human Factors in Computing Systems, Honolulu HI USA: ACM, pp. 1–18. Available at: https://doi.org/10.1145/3613904.3642336.
+Pillai, A. et al. (2025) ‘Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting’. arXiv. Available at: https://doi.org/10.48550/arXiv.2502.07608.
+
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]]
 
@@ -34,6 +35,45 @@ James will lead the sessions.
 Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b5Wy02cFYaRRXbVbgPIRLTEJA1%40thread.tacv2/conversations?groupId=b8cb7489-de49-4fa7-ab9b-626df41b9f98&tenantId=4b18ab9a-3765-4abe-ac7c-0e0d398afd4f][here]]. 
 
 * 2025	  
+** November
+*** The illusion of empathy paper
+Cadre, A. et al. (2024) ‘The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction’, in Proceedings of the CHI Conference on Human Factors in Computing Systems. CHI ’24: CHI Conference on Human Factors in Computing Systems, Honolulu HI USA: ACM, pp. 1–18. Available at: https://doi.org/10.1145/3613904.3642336.
+
+*Key Ideas from /“The Illusion of Empathy? Notes on Displays of Emotion
+in Human-Computer Interaction”/*
+
+- Examines how conversational agents simulate empathy and emotional
+  connection through language, tone, and response style.
+
+- Differentiates between *displaying* empathy (performing emotional
+  cues) and *expressing* empathy (rooted in genuine feeling).
+
+- Argues that “empathetic” behaviour in chatbots stems from *training
+  data*, *fine-tuning*, and *model constraints*, not true emotional
+  understanding.
+
+- Notes that *guardrails* around sensitive topics shape how different
+  models appear empathetic.
+
+- Emphasises a *biological limit*: large language models lack the
+  physiological and emotional drivers (e.g., loneliness, fear, desire)
+  that underpin human empathy. They cannot relate human emotions to
+  their own experience---if such an experience exists at all.
+
+- Raises philosophical questions about:
+
+  - What empathy means in human--machine interaction.
+
+  - Who defines a chatbot's moral and emotional boundaries.
+
+  - Whether chatbots should display empathy at all, and to whom.
+
+- Invites reflection on the *ethics of emotional design* and how user
+  expectations shape the perception of empathy in AI systems.
+
+- The authors' experiment is not about how users respond to varying degrees of emotional expression in conversational agents, but the other way around. They don't have end-users in their experiment; instead, they create user personas. Each persona presents its case or asks questions trying to elicit empathy from the conversational agents. The authors then qualitatively and quantitatively evaluate the empathetic responses projected by the conversational agents.
+
+- The results show that the responses received high scores in Emotional Reactions but low scores in Interpretations and Explorations, suggesting that the generated responses were merely "hollow projections of empathy" or illusion of empathy.
 ** June
 - [[https://www.youtube.com/watch?v=BCiZc0n6COY&list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6][Youtube: David Mackay's Information Theory, Pattern Recognition, and Neural Networks]]
 
