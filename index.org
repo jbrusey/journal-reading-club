@@ -6,12 +6,13 @@ Remember to export this prior to committing a new version
 
 
 * Next meeting
-The next meeting will be on *Wednesday 19th November 2025* and we have decided to look at
+The next meeting will be on *Wednesday 26th November 2025* and we have decided to look at
 
-Pillai, A. et al. (2025) ‘Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting’. arXiv. Available at: https://doi.org/10.48550/arXiv.2502.07608.
+https://ai-2027.com/
 
-
-Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]]
+Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
+- Meeting ID: 354 574 156 991
+- Passcode: i69Gyz
 
 * Introduction
 ** When
@@ -36,6 +37,13 @@ Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b
 
 * 2025	  
 ** November
+*** Time2Lang
+Pillai, A. et al. (2025) ‘Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting’. arXiv. Available at: https://doi.org/10.48550/arXiv.2502.07608.
+
+- Works by converting output of Chronos to the latent input space for Llama and then using the resulting latent output coding to classify.
+- Applied to two problems (depression and flourishing) that are related to fitbit style input.
+- Also note: https://research.google/blog/scaling-wearable-foundation-models/ which is a newer paper on TFMs
+  
 *** The illusion of empathy paper
 Cadre, A. et al. (2024) ‘The Illusion of Empathy? Notes on Displays of Emotion in Human-Computer Interaction’, in Proceedings of the CHI Conference on Human Factors in Computing Systems. CHI ’24: CHI Conference on Human Factors in Computing Systems, Honolulu HI USA: ACM, pp. 1–18. Available at: https://doi.org/10.1145/3613904.3642336.
 
