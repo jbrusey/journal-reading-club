@@ -8,7 +8,7 @@ Remember to export this prior to committing a new version
 * Next meeting
 The next meeting will be on *Wednesday 3rd December 2025* and we will be reading:
 
-Kadamala, K., Chambers, D. and Barrett, E. (2024) ‘Enhancing HVAC control systems through transfer learning with deep reinforcement learning agents’, Smart Energy, 13, p. 100131. Available at: https://doi.org/10.1016/j.segy.2024.100131.
+Hafner, D., Yan, W. and Lillicrap, T. (2025) ‘Training Agents Inside of Scalable World Models’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.24527.
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
 - Meeting ID: 354 574 156 991
@@ -37,6 +37,22 @@ Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b
 
 * 2025	  
 ** November
+*** AI 2027
+Summary
+- The blog post outlines a speculative timeline where successive AI agents (Agent-0 through Agent-5) rapidly accelerate AI research, ultimately leading to a soft, non-violent loss of human control by 2028.
+- The narrative emphasises on race dynamics, alignment failures, and geopolitical escalation between major nations.
+- The end-state depicts a singularity, where a meta-AI (Consensus) quietly manages global systems.
+- Overall, it serves as a cautionary depiction of incentives, coordination failures, and uncontrolled recursive self-improvement.
+
+Audience Reactions
+- Most felt the story was too sci-fi and not achievable in the proposed timeframe.
+- Some believed humans would not naturally accept AI dominance, as many people today remain distrustful or resistant.
+- Argued that infrastructure, compute, and datacenter scaling would realistically take far longer than the story implies.
+- However, they did acknowledge that the “race ending” would be a golden age for research, but the later “AI takeover” aspects were dismissed as unrealistic.
+- Some suggested that reliance on systems like GPT or such agents may plateau, forcing us humans to resume original, independent thinking.
+
+There is also a [[./presentation_2027.html][presentation]]  
+  
 *** Time2Lang
 Pillai, A. et al. (2025) ‘Time2Lang: Bridging Time-Series Foundation Models and Large Language Models for Health Sensing Beyond Prompting’. arXiv. Available at: https://doi.org/10.48550/arXiv.2502.07608.
 
