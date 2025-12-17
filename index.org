@@ -6,12 +6,14 @@ Remember to export this prior to committing a new version
 
 
 * Next meeting
-The next meeting will be on *Wednesday 17th December 2025* and we will be watching (!):
+The next meeting will be on *Wednesday 7th January 2026* and we will be reading:
 
-John Schulman's presentation on TRPO and PPO
+[[https://openreview.net/pdf?id=BZ5a1r-kVsf][Yann Le Cunn (2022) /A Path Towards Autonomous Machine Intelligence/]].
 
-https://www.youtube.com/watch?v=xvRrgxcpaHY
- 
+https://www.noemamag.com/ai-and-the-limits-of-language/
+
+https://www.youtube.com/watch?v=yUmDRxV0krg
+
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
 - Meeting ID: 354 574 156 991
