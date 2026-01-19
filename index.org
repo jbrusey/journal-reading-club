@@ -4,13 +4,12 @@
 Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
-
 * Next meeting
-The next meeting will be on *Wednesday 14th January 2026* and we will be reading:
+The next meeting will be on *Wednesday 21st January 2026* and we will be reading:
 
-Bhadriraju, B. et al. (2024) ‘Optimal charging of Li-ion batteries using sparse identification of nonlinear dynamics’, Chemical Engineering Journal, 499, p. 155015. Available at: https://doi.org/10.1016/j.cej.2024.155015.
+Bailis, S., Friedhoff, J. and Chen, F. (2024) ‘Werewolf Arena: A Case Study in LLM Evaluation via Social Deduction’. arXiv. Available at: https://doi.org/10.48550/arXiv.2407.13943.
 
-Please let me now if you are having trouble accessing the document and I can send to you personally. 
+Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
 - Meeting ID: 354 574 156 991
@@ -46,6 +45,10 @@ Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b
 https://www.noemamag.com/ai-and-the-limits-of-language/
 
 https://www.youtube.com/watch?v=yUmDRxV0krg
+
+*** Bhadriraju (2024) Optimal charging of Li-ion batteries usiing SINDy
+
+Bhadriraju, B. et al. (2024) ‘Optimal charging of Li-ion batteries using sparse identification of nonlinear dynamics’, Chemical Engineering Journal, 499, p. 155015. Available at: https://doi.org/10.1016/j.cej.2024.155015.
 
 
 * 2025	  
