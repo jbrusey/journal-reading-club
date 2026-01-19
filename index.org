@@ -50,6 +50,10 @@ https://www.youtube.com/watch?v=yUmDRxV0krg
 
 Bhadriraju, B. et al. (2024) ‘Optimal charging of Li-ion batteries using sparse identification of nonlinear dynamics’, Chemical Engineering Journal, 499, p. 155015. Available at: https://doi.org/10.1016/j.cej.2024.155015.
 
+Notes:
+1. They found it best to re-optimise only once every 10 cycles. Apparently changing too often (5-cycle) adds heat / stress.
+2. Does the charge time increase with 10-cycle? No figure is given but apparently not by much.
+3. What is the charging "policy"? It's a time varying current profile within a single charge cycle. The charge cycle is divided into time intervals and then different currents are set for each interval. 
 
 * 2025	  
 ** November
