@@ -5,9 +5,9 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 21st January 2026* and we will be reading:
+The next meeting will be on *Wednesday 28th January 2026* and we will be reading:
 
-Bailis, S., Friedhoff, J. and Chen, F. (2024) ‘Werewolf Arena: A Case Study in LLM Evaluation via Social Deduction’. arXiv. Available at: https://doi.org/10.48550/arXiv.2407.13943.
+Peifer, D., Stillman, M. and Halpern-Leistner, D. (2020) ‘Learning selection strategies in Buchberger’s algorithm’, in Proceedings of the 37th International Conference on Machine Learning. JMLR.org (ICML’20), pp. 7575–7585. [[https://proceedings.mlr.press/v119/peifer20a/peifer20a.pdf][Link]]
 
 Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
@@ -54,6 +54,11 @@ Notes:
 1. They found it best to re-optimise only once every 10 cycles. Apparently changing too often (5-cycle) adds heat / stress.
 2. Does the charge time increase with 10-cycle? No figure is given but apparently not by much.
 3. What is the charging "policy"? It's a time varying current profile within a single charge cycle. The charge cycle is divided into time intervals and then different currents are set for each interval. 
+
+*** Bailis et al (2024) Werewolf Arena
+
+Bailis, S., Friedhoff, J. and Chen, F. (2024) ‘Werewolf Arena: A Case Study in LLM Evaluation via Social Deduction’. arXiv. Available at: https://doi.org/10.48550/arXiv.2407.13943.
+
 
 * 2025	  
 ** November
