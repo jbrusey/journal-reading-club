@@ -59,6 +59,11 @@ Notes:
 
 Bailis, S., Friedhoff, J. and Chen, F. (2024) ‘Werewolf Arena: A Case Study in LLM Evaluation via Social Deduction’. arXiv. Available at: https://doi.org/10.48550/arXiv.2407.13943.
 
+Notes:
+1. Introduced a bidding-based turn-taking system instead of fixed order speaking (agents bid on how urgently they want to speak from 0 to 4).
+2. How does a bidding-based system compare to fixed order speaking for LLM benchmarking?
+3. Gemini 1.5 Pro beats GPT-4, especially as villager. GPT-4 tends to be more verbose possibly making it more detectable as a Werewolf.
+4. Only compared basic architectures with a very small number of games (10), would Gemini 1.5 Pro still be better than GPT-4 with more games?
 
 * 2025	  
 ** November
