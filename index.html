@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>Coventry University CSM Journal Reading Club</title>
-<!-- 2026-01-28 Wed 12:08 -->
+<!-- 2026-01-28 Wed 14:04 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Org-mode">
@@ -397,6 +397,10 @@ Notes:
 <div class="outline-text-4" id="text-">
 <p>
 Peifer, D., Stillman, M. and Halpern-Leistner, D. (2020) ‘Learning selection strategies in Buchberger’s algorithm’, in Proceedings of the 37th International Conference on Machine Learning. JMLR.org (ICML’20), pp. 7575–7585. <a href="https://proceedings.mlr.press/v119/peifer20a/peifer20a.pdf">Link</a>
+</p>
+
+<p>
+In the discussion, we noted that while the paper successfully demonstrates that Reinforcement-learning based selection of S-pair can optimize the performance of Buchberger’s algorithm, several directions for improvement were suggested. One point was that the training data distribution could be made more representative of “real-world” polynomial systems, as opposed to synthetic or benchmark-driven instances, which might improve generalization. Another suggestion was to explore learned embeddings to better handle the changing dimensionality of the algorithm’s state space as the basis evolves, rather than relying on fixed-size feature vectors. We also discussed the feature engineering approach: although the hand-crafted algebraic features can be effective and interpretable, it remains an open question whether modern ML or deep learning methods could automatically learn richer representations, potentially capturing interactions that are hard to encode manually, or whether the structured nature of Groebner basis computations ultimately favors carefully designed features over fully end-to-end learning.
 </p>
 </div>
 </div>
