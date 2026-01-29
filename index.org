@@ -10,6 +10,8 @@ The next meeting will be on *Wednesday 4th February 2026* and we will be reading
 
 Schut, L. et al. (2023) ‘Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero’. arXiv. Available at: https://doi.org/10.48550/arXiv.2310.16410.
 
+Also [[http://incompleteideas.net/IncIdeas/BitterLesson.html][Rich Sutton's Bitter Lesson Essay]]
+
 Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
