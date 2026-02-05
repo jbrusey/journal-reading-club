@@ -5,12 +5,9 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 4th February 2026* and we will be reading:
+The next meeting will be on *Wednesday 11th February 2026* and we will be reading:
 
-
-Schut, L. et al. (2023) ‘Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero’. arXiv. Available at: https://doi.org/10.48550/arXiv.2310.16410.
-
-Also [[http://incompleteideas.net/IncIdeas/BitterLesson.html][Rich Sutton's Bitter Lesson Essay]]
+Zhu, D. et al. (2026) ‘PaperBanana: Automating Academic Illustration for AI Scientists’. arXiv. Available at: https://doi.org/10.48550/arXiv.2601.23265.
 
 Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
@@ -40,6 +37,13 @@ James will lead the sessions.
 Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b5Wy02cFYaRRXbVbgPIRLTEJA1%40thread.tacv2/conversations?groupId=b8cb7489-de49-4fa7-ab9b-626df41b9f98&tenantId=4b18ab9a-3765-4abe-ac7c-0e0d398afd4f][here]]. 
 
 * 2026
+** February
+** Schut (2023) Bridging the Human-AI Knowledge Gap
+
+Schut, L. et al. (2023) ‘Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero’. arXiv. Available at: https://doi.org/10.48550/arXiv.2310.16410.
+
+Also [[http://incompleteideas.net/IncIdeas/BitterLesson.html][Rich Sutton's Bitter Lesson Essay]]
+
 ** January
 *** Yan LeCun (2022) A path towards autonomous machine intelligence
 
