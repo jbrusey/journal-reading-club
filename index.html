@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <title>Coventry University CSM Journal Reading Club</title>
-<!-- 2026-02-05 Thu 08:57 -->
+<!-- 2026-02-08 Sun 17:46 -->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="generator" content="Org-mode">
@@ -189,6 +189,32 @@ $(function() {
     $('.bs-docs-sidebar').affix();
 });
 </script>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  displayAlign: "center",
+  displayIndent: "2em",
+  messageStyle: "none",
+  "HTML-CSS": {
+    scale: 100,
+    styles: {
+      ".MathJax_Display": {
+        "font-size": "100%"
+      }
+    }
+  },
+  "SVG": {
+    scale: 100,
+    styles: {
+      ".MathJax_SVG_Display": {
+        "font-size": "100%",
+        "margin-left": "-2.281em"
+      }
+    }
+  }
+});
+</script>
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_SVG"></script>
 </head>
 <body>
 <div id="content" class="container">
@@ -342,6 +368,24 @@ Yes there is! It's <a href="https://teams.microsoft.com/l/team/19:Rgtue_01xh-2pK
 <p>
 Schut, L. et al. (2023) ‘Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero’. arXiv. Available at: <a href="https://doi.org/10.48550/arXiv.2310.16410">https://doi.org/10.48550/arXiv.2310.16410</a>.
 </p>
+
+<p>
+Notes:
+</p>
+<ul class="org-ul">
+<li>Goal of the Paper: Bridge the gap between human and AI knowledge in AlphaZero. The author aims to extract super-human chess concepts from the model.
+</li>
+<li>The paper used a sparse linear probing on AlphaZero' latent psace to find concept vectors, and then filtered concepts via SVD (Spectral analysis) to ensure the information captured is not present in human games.
+</li>
+<li>The "Teachability" Gap: Filtering concepts based on a student network's ability to learn them is a weak proxy for human cognitive load. A concept being transferable between silicon architectures via KL divergence does not guarantee it is intelligible to biological agents.
+</li>
+<li>Human Study Constraints: The sample size was statistically weak (\(N=4\) Grandmasters) , with high variance in improvement (+6% to +42%)
+</li>
+<li>Teachability Proxy: Successful transferring of concepts to student networks is a weak proxy for human cognitive load.
+</li>
+<li>Linearity Assumption: The paper relied on linear concept encoding which could have likely missed complex non-linear features inherent to deep ResNets.
+</li>
+</ul>
 
 <p>
 Also <a href="http://incompleteideas.net/IncIdeas/BitterLesson.html">Rich Sutton's Bitter Lesson Essay</a>
