@@ -7,7 +7,8 @@ Remember to export this prior to committing a new version
 * Next meeting
 The next meeting will be on *Wednesday 11th February 2026* and we will be reading:
 
-Zhu, D. et al. (2026) ‘PaperBanana: Automating Academic Illustration for AI Scientists’. arXiv. Available at: https://doi.org/10.48550/arXiv.2601.23265.
+Xi, Z. et al. (2025) ‘AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.08755.
+
 
 Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
@@ -38,7 +39,10 @@ Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b
 
 * 2026
 ** February
-** Schut (2023) Bridging the Human-AI Knowledge Gap
+*** PaperBanana
+Zhu, D. et al. (2026) ‘PaperBanana: Automating Academic Illustration for AI Scientists’. arXiv. Available at: https://doi.org/10.48550/arXiv.2601.23265.
+
+*** Schut (2023) Bridging the Human-AI Knowledge Gap
 
 Schut, L. et al. (2023) ‘Bridging the Human-AI Knowledge Gap: Concept Discovery and Transfer in AlphaZero’. arXiv. Available at: https://doi.org/10.48550/arXiv.2310.16410.
 
