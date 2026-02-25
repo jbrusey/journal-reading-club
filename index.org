@@ -5,11 +5,9 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 25th February 2026* and we will be reading:
+The next meeting will be on *Wednesday 4th March 2026* and we will be reading:
 
-Xi, Z. et al. (2025) ‘AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.08755.
-
-Note that this was held over from the 18th. 
+Wu, F. et al. (2026) ‘DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.25454.
 
 Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
@@ -40,6 +38,11 @@ Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b
 
 * 2026
 ** February
+*** AgentGym-RL
+Xi, Z. et al. (2025) ‘AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.08755.
+
+Note that this was held over from the 18th. 
+
 *** PaperBanana
 Zhu, D. et al. (2026) ‘PaperBanana: Automating Academic Illustration for AI Scientists’. arXiv. Available at: https://doi.org/10.48550/arXiv.2601.23265.
 
