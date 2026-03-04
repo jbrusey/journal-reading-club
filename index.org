@@ -5,9 +5,9 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 4th March 2026* and we will be reading:
+The next meeting will be on *Wednesday 11th March 2026* and we will be reading:
 
-Wu, F. et al. (2026) ‘DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.25454.
+As, Y. et al. (2026) ‘What Matters for Simulation to Online Reinforcement Learning on Real Robots’. arXiv. Available at: https://doi.org/10.48550/arXiv.2602.20220.
 
 Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
@@ -37,6 +37,11 @@ James will lead the sessions.
 Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b5Wy02cFYaRRXbVbgPIRLTEJA1%40thread.tacv2/conversations?groupId=b8cb7489-de49-4fa7-ab9b-626df41b9f98&tenantId=4b18ab9a-3765-4abe-ac7c-0e0d398afd4f][here]]. 
 
 * 2026
+** March
+*** DeepSearch
+
+Wu, F. et al. (2026) ‘DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.25454.
+
 ** February
 *** AgentGym-RL
 Xi, Z. et al. (2025) ‘AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.08755.
