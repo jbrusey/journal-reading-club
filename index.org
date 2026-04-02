@@ -5,9 +5,11 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 11th March 2026* and we will be reading:
+My humble apologies to all who tried to join on the 1st April 2026---I was still recovering from my trip. We are definitely back now though!
 
-As, Y. et al. (2026) ‘What Matters for Simulation to Online Reinforcement Learning on Real Robots’. arXiv. Available at: https://doi.org/10.48550/arXiv.2602.20220.
+The next meeting will be on *Wednesday 8th April 2026* and we will be reading:
+
+Ecoffet, A. et al. (2021) ‘First return, then explore’, Nature, 590(7847), pp. 580–586. Available at: https://doi.org/10.1038/s41586-020-03157-9.
 
 Please let me know if you are having trouble accessing the document and I can send to you personally. 
 
@@ -38,6 +40,9 @@ Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b
 
 * 2026
 ** March
+*** What matters (sim2real)
+As, Y. et al. (2026) ‘What Matters for Simulation to Online Reinforcement Learning on Real Robots’. arXiv. Available at: https://doi.org/10.48550/arXiv.2602.20220.
+
 *** DeepSearch
 
 Wu, F. et al. (2026) ‘DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search’. arXiv. Available at: https://doi.org/10.48550/arXiv.2509.25454.
