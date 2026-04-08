@@ -1,0 +1,166 @@
+#+title: Reviews for Energy-Efficient, Risk-Aware Control of Domestic Hot Water
+#+options: num:nil
+* Preamble :noexport:
+Remember to export this prior to committing a new version
+[[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
+* Review
+:PROPERTIES:
+:CUSTOM_ID: review
+:END:
+** Overall merit
+:PROPERTIES:
+:CUSTOM_ID: overall-merit
+:END:
+4. [@4] Accept
+
+** Reviewer expertise
+:PROPERTIES:
+:CUSTOM_ID: reviewer-expertise
+:END:
+2. [@2] Some familiarity
+
+** Paper summary
+:PROPERTIES:
+:CUSTOM_ID: paper-summary
+:END:
+The paper presents a comparison of different ways to control domestic
+water heaters and compare them across various relevant metrics, such as
+frequency of switching, energy consumption, and comfort.
+
+** Comments for authors
+:PROPERTIES:
+:CUSTOM_ID: comments-for-authors
+:END:
+This paper offers a structured way to compare a collection of water
+heater controllers and conclude that given the same access to
+information, a structured and interpretable design does as well as (and
+in some metrics, better than) a reinforcement learning based controller.
+The exercise shows that blindly applying an RL algorithm, even though it
+is suited to the task, may not buy one as much in terms of robustness,
+efficiency, and interpretability. I enjoyed reading the paper!
+
+* Review
+:PROPERTIES:
+:CUSTOM_ID: review-1
+:END:
+** Overall merit
+:PROPERTIES:
+:CUSTOM_ID: overall-merit-1
+:END:
+2. [@2] Weak reject
+
+** Reviewer expertise
+:PROPERTIES:
+:CUSTOM_ID: reviewer-expertise-1
+:END:
+3. [@3] Knowledgeable
+
+** Paper summary
+:PROPERTIES:
+:CUSTOM_ID: paper-summary-1
+:END:
+The paper studies reinforcement learning-based control for a domestic
+hot-water heating system under stochastic demand. The experimental
+section appears carefully implemented, with multiple rule-based
+baselines and detailed performance comparisons.
+
+** Comments for authors
+:PROPERTIES:
+:CUSTOM_ID: comments-for-authors-1
+:END:
+Major comments: 1. The related work section provides a good overview but
+should more explicitly differentiate this work from existing studies on
+RL-based DHW control. For instance, how does the proposed duration-aware
+NHPP demand model fundamentally change the control challenge compared to
+more simplistic occupancy-based triggers used in previous RL energy
+studies? A more detailed comparison of the problem formulation would
+clarify the specific contribution of this environment.
+
+2. [@2] The experimental comparison includes several practical
+   rule-based controllers, which is useful for demonstrating real-world
+   relevance. However, the evaluation might benefit from including at
+   least one stronger optimization-based baseline (for example, dynamic
+   programming-based policies) if feasible. Such comparisons could
+   provide additional insight into the achievable performance limits and
+   help further contextualize the RL results.
+
+3. The paper notes that PPO leads to significantly higher switching
+   frequency and energy use. The discussion could be expanded to explain
+   the physical cause of this behavior. Does the PPO agent learn a
+   dithering policy to maintain a higher safety margin? Given that relay
+   wear is a critical factor in appliance longevity, a deeper analysis
+   of this energy-comfort-switching trade-off would make the empirical
+   insights more valuable for real-world deployment.
+
+Minor comments: 1. In several figures (e.g., Figure 3 and 6), the
+legends overlap with the plotted curves and partially obscure the data.
+Repositioning the legends would improve clarity. 2. A brief sensitivity
+analysis regarding key physical parameters, such as the heater's rated
+power or the tank's loss coefficient, would demonstrate the robustness
+of the value-of-information conclusion across different hardware
+configurations.
+
+* Review #395A
+:PROPERTIES:
+:CUSTOM_ID: review-395a
+:END:
+** Overall merit
+:PROPERTIES:
+:CUSTOM_ID: overall-merit-2
+:END:
+2. [@2] Weak reject
+
+** Reviewer expertise
+:PROPERTIES:
+:CUSTOM_ID: reviewer-expertise-2
+:END:
+3. [@3] Knowledgeable
+
+** Paper summary
+:PROPERTIES:
+:CUSTOM_ID: paper-summary-2
+:END:
+This paper considers a domestic hot-water provision problem in
+residential buildings which equip immersion heaters and hot water tanks.
+The paper present a rigorous evaluation protocol that benchmark
+reinforcement learning against risk-aware heuristics. Also, the paper
+provides an empirical study to show the trade-off between energy and
+comfort. The obtained insights are that the performance gain mainly
+comes from the access to demand-risk information.
+
+** Comments for authors
+:PROPERTIES:
+:CUSTOM_ID: comments-for-authors-2
+:END:
+Strengths: - The paper studies an interesting application involving the
+control of domestic hot water systems. - A PPO-based reinforcement
+learning approach is implemented and compared with several rule-based
+control methods.
+
+Weaknesses: - The technical novelty appears limited. The paper primarily
+evaluates existing RL and rule-based methods without proposing new
+algorithms or methodological innovations. - The demand modeling only
+captures a diurnal usage pattern, which seems overly simplistic and may
+not adequately represent realistic demand variability. - The energy
+objective does not account for time-varying electricity prices or grid
+signals, which are important factors for energy-aware control in
+practical deployments.
+
+Overall recommendation: Based on the limited methodological novelty and
+the simple system modeling, I recommend rejecting this paper.
+
+* Review #395B
+:PROPERTIES:
+:CUSTOM_ID: review-395b
+:END:
+** Meta Review by Track Chair
+:PROPERTIES:
+:CUSTOM_ID: meta-review-by-track-chair
+:END:
+The paper is a solid application study, but the technical contribution
+is limited: it mainly compares PPO against rule-based controllers with a
+simplified demand model and an objective that omits key practical
+signals (e.g., time-varying prices/grid incentives). The evaluation also
+lacks stronger optimization baselines and a deeper analysis of PPO's
+high switching behavior and robustness, which weakens the
+value-of-information and deployment conclusions.
