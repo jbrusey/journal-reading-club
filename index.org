@@ -5,13 +5,11 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-My humble apologies to all who tried to join on the 1st April 2026---I was still recovering from my trip. We are definitely back now though!
+The next meeting will be on *Wednesday 15th April 2026* and we will be reading and editing! the following draft paper:
 
-The next meeting will be on *Wednesday 8th April 2026* and we will be reading:
+[[file:Energy-Efficient, Risk-Aware Control of Domestic Hot Water.pdf][Energy-Efficient, Risk-Aware Control of Domestic Hot Water]]
 
-Ecoffet, A. et al. (2021) ‘First return, then explore’, Nature, 590(7847), pp. 580–586. Available at: https://doi.org/10.1038/s41586-020-03157-9. Note that the original https://arxiv.org/abs/1901.10995 contains more detailed explanation and may aid understanding.
-
-Please let me know if you are having trouble accessing the document and I can send to you personally. 
+This paper was submitted to ACM e-energy and rejected. We hope through this "editing" club is to improve the paper for future submission elsewhere. 
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
 - Meeting ID: 354 574 156 991
@@ -39,6 +37,10 @@ James will lead the sessions.
 Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b5Wy02cFYaRRXbVbgPIRLTEJA1%40thread.tacv2/conversations?groupId=b8cb7489-de49-4fa7-ab9b-626df41b9f98&tenantId=4b18ab9a-3765-4abe-ac7c-0e0d398afd4f][here]]. 
 
 * 2026
+** April
+*** Go-Explore 
+Ecoffet, A. et al. (2021) ‘First return, then explore’, Nature, 590(7847), pp. 580–586. Available at: https://doi.org/10.1038/s41586-020-03157-9. Note that the original https://arxiv.org/abs/1901.10995 contains more detailed explanation and may aid understanding.
+
 ** March
 *** What matters (sim2real)
 As, Y. et al. (2026) ‘What Matters for Simulation to Online Reinforcement Learning on Real Robots’. arXiv. Available at: https://doi.org/10.48550/arXiv.2602.20220.
