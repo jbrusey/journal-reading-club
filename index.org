@@ -1,4 +1,4 @@
-#+title: Coventry University CSM Journal Reading Club
+#+title: Coventry University Centre for Doctoral Training in AI (CDT-AI) Journal Reading Club
 #+options: num:nil
 * Preamble :noexport:
 Remember to export this prior to committing a new version
