@@ -5,9 +5,9 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 22nd April 2026* and we will be reading the following paper:
+The next meeting will be on *Wednesday 29th April 2026* and we will be reading the following paper:
 
-Arroyo, J. et al. (2022) ‘Reinforced model predictive control (RL-MPC) for building energy management’, Applied Energy, 309, p. 118346. Available at: https://doi.org/10.1016/j.apenergy.2021.118346.
+Zandieh, A. et al. (2025) TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate, arXiv.org. Available at: https://arxiv.org/abs/2504.19874v1 (Accessed: 2 April 2026).
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
 - Meeting ID: 354 574 156 991
@@ -36,6 +36,11 @@ Yes there is! It's [[https://teams.microsoft.com/l/team/19%3ARgtue_01xh-2pKz0B_b
 
 * 2026
 ** April
+*** Arroyo - MPC + RL
+
+Arroyo, J. et al. (2022) ‘Reinforced model predictive control (RL-MPC) for building energy management’, Applied Energy, 309, p. 118346. Available at: https://doi.org/10.1016/j.apenergy.2021.118346.
+
+
 *** Proofreading club
 
 [[file:Energy-Efficient, Risk-Aware Control of Domestic Hot Water.pdf][Energy-Efficient, Risk-Aware Control of Domestic Hot Water]]
