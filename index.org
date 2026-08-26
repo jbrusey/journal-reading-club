@@ -5,9 +5,12 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 5th August 2026* and we will be reading the following paper:
+The next meeting will be on *Wednesday 26th August 2026* and we will be reading the following paper:
 
-Wang, Y. (2026). ThermoForce: A Physics-Structured Interventional World Model for Building HVAC Control (arXiv:2607.03942). arXiv. https://doi.org/10.48550/arXiv.2607.03942
+Go Beyond Black-box Policies: Rethinking the Design of Learning Agent for Interpretable and Verifiable HVAC Control
+https://dl.acm.org/doi/10.1145/3649329.3656234
+ 
+
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
 - Meeting ID: 354 574 156 991
