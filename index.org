@@ -5,10 +5,11 @@ Remember to export this prior to committing a new version
 [[elisp:(let ((org-twbs-postamble nil)) (org-twbs-export-to-html))]]
 
 * Next meeting
-The next meeting will be on *Wednesday 2nd September 2026* and we will be reading the following paper:
+The next meeting will be on *Wednesday 9th September 2026* and we will be reading the following paper:
 
-Yang, S., Fan, X., Pan, M., Xi, H., Wang, Z., Sun, S., Keutzer, K., Han, S., Zaharia, M., Xu, C., & Stoica, I. (2026). FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution (arXiv:2608.16157). arXiv. https://doi.org/10.48550/arXiv.2608.16157
+Aniket's paper (TBD)
 
+Note that due to the conference - please just provide Aniket with review feedback directly. 
 
 Teams join link is [[https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmYwZTIwZmUtODA5Ny00ODZiLTg4MWQtMDQ3ZTU0ODNiOTdj%40thread.v2/0?context=%7b%22Tid%22%3a%224b18ab9a-3765-4abe-ac7c-0e0d398afd4f%22%2c%22Oid%22%3a%22a1b6f125-52fd-4586-90e4-b11954f89da9%22%7d][here]] or use: 
 - Meeting ID: 354 574 156 991
